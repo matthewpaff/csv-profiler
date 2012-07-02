@@ -1,0 +1,2219 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "scenarioCommitCount": 367,
+  "scenarioCommits": [
+    {
+      "scenarioAuthorDate": "2012-07-05T08:42:30+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 0
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T10:52:29+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 1
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T13:58:00+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 2
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T16:52:17+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 3
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T20:39:20+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 4
+    },
+    {
+      "scenarioAuthorDate": "2012-07-07T14:30:50+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 5
+    },
+    {
+      "scenarioAuthorDate": "2012-07-09T18:48:15+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 6
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T10:26:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 7
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T18:42:26+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 8
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T22:31:07+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 9
+    },
+    {
+      "scenarioAuthorDate": "2012-07-14T17:33:18+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 10
+    },
+    {
+      "scenarioAuthorDate": "2012-07-15T15:32:53+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 11
+    },
+    {
+      "scenarioAuthorDate": "2012-07-18T16:30:31+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 12
+    },
+    {
+      "scenarioAuthorDate": "2012-07-20T13:35:09+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 13
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T10:12:10+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 14
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T13:19:20+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 15
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T14:21:22+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 16
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T18:25:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 17
+    },
+    {
+      "scenarioAuthorDate": "2012-07-23T09:51:05+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 18
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T08:50:45+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 19
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T16:08:39+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 20
+    },
+    {
+      "scenarioAuthorDate": "2012-07-26T10:27:23+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 21
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T11:26:22+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 22
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T17:04:30+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 23
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T21:36:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 24
+    },
+    {
+      "scenarioAuthorDate": "2012-07-30T08:06:45+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 25
+    },
+    {
+      "scenarioAuthorDate": "2012-07-30T19:33:55+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 26
+    },
+    {
+      "scenarioAuthorDate": "2012-07-31T10:56:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 27
+    },
+    {
+      "scenarioAuthorDate": "2012-07-31T19:20:02+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 28
+    },
+    {
+      "scenarioAuthorDate": "2012-08-02T10:41:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 29
+    },
+    {
+      "scenarioAuthorDate": "2012-08-02T21:51:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 30
+    },
+    {
+      "scenarioAuthorDate": "2012-08-03T15:05:29+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 31
+    },
+    {
+      "scenarioAuthorDate": "2012-08-03T22:23:05+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 32
+    },
+    {
+      "scenarioAuthorDate": "2012-08-05T21:00:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 33
+    },
+    {
+      "scenarioAuthorDate": "2012-08-08T14:20:17+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 34
+    },
+    {
+      "scenarioAuthorDate": "2012-08-09T14:52:20+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 35
+    },
+    {
+      "scenarioAuthorDate": "2012-08-10T15:58:22+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 36
+    },
+    {
+      "scenarioAuthorDate": "2012-08-10T21:42:06+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 37
+    },
+    {
+      "scenarioAuthorDate": "2012-08-13T13:16:33+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 38
+    },
+    {
+      "scenarioAuthorDate": "2012-08-15T09:13:30+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 39
+    },
+    {
+      "scenarioAuthorDate": "2012-08-15T19:13:01+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 40
+    },
+    {
+      "scenarioAuthorDate": "2012-08-17T20:47:57+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 41
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T09:14:14+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 42
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T13:20:46+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 43
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T17:34:30+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 44
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T21:26:58+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 45
+    },
+    {
+      "scenarioAuthorDate": "2012-08-22T11:40:54+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 46
+    },
+    {
+      "scenarioAuthorDate": "2012-08-24T11:03:19+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 47
+    },
+    {
+      "scenarioAuthorDate": "2012-08-25T10:10:02+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 48
+    },
+    {
+      "scenarioAuthorDate": "2012-08-25T20:02:22+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 49
+    },
+    {
+      "scenarioAuthorDate": "2012-08-29T11:22:02+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 50
+    },
+    {
+      "scenarioAuthorDate": "2012-08-30T13:36:55+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 51
+    },
+    {
+      "scenarioAuthorDate": "2012-08-30T17:51:14+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 52
+    },
+    {
+      "scenarioAuthorDate": "2012-08-31T17:07:08+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 53
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T10:02:56+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 54
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T13:38:51+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 55
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T16:40:42+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 56
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T19:49:23+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 57
+    },
+    {
+      "scenarioAuthorDate": "2012-09-02T10:22:12+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 58
+    },
+    {
+      "scenarioAuthorDate": "2012-09-02T17:41:52+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 59
+    },
+    {
+      "scenarioAuthorDate": "2012-09-03T19:43:20+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 60
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T09:28:46+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 61
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T11:34:47+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 62
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T13:41:38+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 63
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T20:33:02+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 64
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T22:29:42+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 65
+    },
+    {
+      "scenarioAuthorDate": "2012-09-08T13:15:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 66
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T10:40:08+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 67
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T14:28:40+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 68
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T17:14:57+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 69
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T21:10:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 70
+    },
+    {
+      "scenarioAuthorDate": "2012-09-11T09:57:44+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 71
+    },
+    {
+      "scenarioAuthorDate": "2012-09-13T10:09:44+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 72
+    },
+    {
+      "scenarioAuthorDate": "2012-09-15T16:19:47+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 73
+    },
+    {
+      "scenarioAuthorDate": "2012-09-17T16:00:31+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 74
+    },
+    {
+      "scenarioAuthorDate": "2012-09-18T12:14:11+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 75
+    },
+    {
+      "scenarioAuthorDate": "2012-09-18T19:26:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 76
+    },
+    {
+      "scenarioAuthorDate": "2012-09-19T11:02:00+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 77
+    },
+    {
+      "scenarioAuthorDate": "2012-09-23T08:54:37+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 78
+    },
+    {
+      "scenarioAuthorDate": "2012-09-25T16:49:51+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 79
+    },
+    {
+      "scenarioAuthorDate": "2012-09-26T13:01:49+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 80
+    },
+    {
+      "scenarioAuthorDate": "2012-09-26T19:27:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 81
+    },
+    {
+      "scenarioAuthorDate": "2012-09-27T16:00:24+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 82
+    },
+    {
+      "scenarioAuthorDate": "2012-09-28T08:04:57+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 83
+    },
+    {
+      "scenarioAuthorDate": "2012-09-28T13:41:32+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 84
+    },
+    {
+      "scenarioAuthorDate": "2012-10-01T11:56:56+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 85
+    },
+    {
+      "scenarioAuthorDate": "2012-10-01T16:26:31+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 86
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T08:51:47+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 87
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T12:41:54+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 88
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T15:55:07+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 89
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T18:45:23+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 90
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T20:50:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 91
+    },
+    {
+      "scenarioAuthorDate": "2012-10-03T10:50:04+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 92
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T08:20:25+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 93
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T13:52:04+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 94
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T18:35:55+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 95
+    },
+    {
+      "scenarioAuthorDate": "2012-10-05T12:01:58+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 96
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T14:36:19+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 97
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T18:01:13+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 98
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T08:33:39+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 99
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T14:05:44+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 100
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T20:18:33+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 101
+    },
+    {
+      "scenarioAuthorDate": "2012-10-11T08:49:42+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 102
+    },
+    {
+      "scenarioAuthorDate": "2012-10-11T18:13:32+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 103
+    },
+    {
+      "scenarioAuthorDate": "2012-10-13T09:15:37+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 104
+    },
+    {
+      "scenarioAuthorDate": "2012-10-13T18:55:40+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 105
+    },
+    {
+      "scenarioAuthorDate": "2012-10-14T12:17:05+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 106
+    },
+    {
+      "scenarioAuthorDate": "2012-10-14T19:37:29+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 107
+    },
+    {
+      "scenarioAuthorDate": "2012-10-15T14:16:10+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 108
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T09:47:25+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 109
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T16:19:01+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 110
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T19:02:26+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 111
+    },
+    {
+      "scenarioAuthorDate": "2012-10-18T16:37:37+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 112
+    },
+    {
+      "scenarioAuthorDate": "2012-10-19T17:59:17+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 113
+    },
+    {
+      "scenarioAuthorDate": "2012-10-22T10:04:33+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 114
+    },
+    {
+      "scenarioAuthorDate": "2012-10-22T22:27:23+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 115
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T11:50:46+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 116
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T18:34:55+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 117
+    },
+    {
+      "scenarioAuthorDate": "2012-10-25T08:13:49+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 118
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T08:12:45+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 119
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T10:05:00+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 120
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T12:49:17+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 121
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T15:52:11+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 122
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T18:44:39+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 123
+    },
+    {
+      "scenarioAuthorDate": "2012-10-27T16:47:14+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 124
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T08:03:59+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 125
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T14:03:42+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 126
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T17:20:10+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 127
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T21:06:32+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 128
+    },
+    {
+      "scenarioAuthorDate": "2012-10-30T12:54:20+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 129
+    },
+    {
+      "scenarioAuthorDate": "2012-11-02T09:15:00+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 130
+    },
+    {
+      "scenarioAuthorDate": "2012-11-03T11:17:36+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 131
+    },
+    {
+      "scenarioAuthorDate": "2012-11-03T19:18:44+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 132
+    },
+    {
+      "scenarioAuthorDate": "2012-11-04T15:27:23+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 133
+    },
+    {
+      "scenarioAuthorDate": "2012-11-06T15:30:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 134
+    },
+    {
+      "scenarioAuthorDate": "2012-11-07T10:29:14+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 135
+    },
+    {
+      "scenarioAuthorDate": "2012-11-07T20:37:45+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 136
+    },
+    {
+      "scenarioAuthorDate": "2012-11-10T22:03:49+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 137
+    },
+    {
+      "scenarioAuthorDate": "2012-11-13T11:33:33+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 138
+    },
+    {
+      "scenarioAuthorDate": "2012-11-16T14:12:19+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 139
+    },
+    {
+      "scenarioAuthorDate": "2012-11-16T22:55:14+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 140
+    },
+    {
+      "scenarioAuthorDate": "2012-11-21T11:15:20+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 141
+    },
+    {
+      "scenarioAuthorDate": "2012-11-21T21:05:52+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 142
+    },
+    {
+      "scenarioAuthorDate": "2012-11-24T13:55:51+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 143
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T09:14:43+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 144
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T13:14:24+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 145
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T14:31:48+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 146
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T17:31:05+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 147
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T19:54:50+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 148
+    },
+    {
+      "scenarioAuthorDate": "2012-11-28T11:51:26+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 149
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T08:25:19+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 150
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T13:31:59+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 151
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T18:46:19+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 152
+    },
+    {
+      "scenarioAuthorDate": "2012-12-02T14:10:19+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 153
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T08:04:06+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 154
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T17:03:51+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 155
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T19:42:42+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 156
+    },
+    {
+      "scenarioAuthorDate": "2012-12-06T09:54:12+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 157
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T15:04:10+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 158
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T18:57:26+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 159
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T21:41:49+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 160
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T13:02:21+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 161
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T18:25:39+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 162
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T22:21:38+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 163
+    },
+    {
+      "scenarioAuthorDate": "2012-12-16T17:42:58+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 164
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T09:17:26+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 165
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T11:02:15+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 166
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T13:38:07+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 167
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T17:14:45+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 168
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T21:05:22+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 169
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T09:00:30+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 170
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T10:16:21+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 171
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T17:14:02+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 172
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T18:57:17+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 173
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T22:04:25+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 174
+    },
+    {
+      "scenarioAuthorDate": "2012-12-25T18:44:01+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 175
+    },
+    {
+      "scenarioAuthorDate": "2012-12-27T08:04:58+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 176
+    },
+    {
+      "scenarioAuthorDate": "2012-12-27T22:37:46+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 177
+    },
+    {
+      "scenarioAuthorDate": "2012-12-29T17:28:08+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 178
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T09:19:30+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 179
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T11:31:50+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 180
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T15:30:54+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 181
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T20:03:56+00:00",
+      "year": 2012,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 182
+    },
+    {
+      "scenarioAuthorDate": "2013-01-01T10:48:45+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 183
+    },
+    {
+      "scenarioAuthorDate": "2013-01-05T22:26:41+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 184
+    },
+    {
+      "scenarioAuthorDate": "2013-01-08T09:54:45+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 185
+    },
+    {
+      "scenarioAuthorDate": "2013-01-09T13:18:17+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 186
+    },
+    {
+      "scenarioAuthorDate": "2013-01-13T14:20:44+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 187
+    },
+    {
+      "scenarioAuthorDate": "2013-01-15T11:22:13+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 188
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T08:58:05+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 189
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T11:44:12+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 190
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T19:18:45+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 191
+    },
+    {
+      "scenarioAuthorDate": "2013-01-22T10:35:10+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 192
+    },
+    {
+      "scenarioAuthorDate": "2013-01-28T15:46:17+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 193
+    },
+    {
+      "scenarioAuthorDate": "2013-02-02T10:55:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 194
+    },
+    {
+      "scenarioAuthorDate": "2013-02-06T11:03:20+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 195
+    },
+    {
+      "scenarioAuthorDate": "2013-02-15T15:36:56+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 196
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T09:36:47+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 197
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T15:07:46+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 198
+    },
+    {
+      "scenarioAuthorDate": "2013-02-17T16:05:22+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 199
+    },
+    {
+      "scenarioAuthorDate": "2013-02-18T18:41:16+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 200
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T09:27:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 201
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T14:49:56+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 202
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T17:42:05+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 203
+    },
+    {
+      "scenarioAuthorDate": "2013-02-22T14:24:11+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 204
+    },
+    {
+      "scenarioAuthorDate": "2013-02-23T09:03:51+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 205
+    },
+    {
+      "scenarioAuthorDate": "2013-02-23T15:28:56+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 206
+    },
+    {
+      "scenarioAuthorDate": "2013-02-25T10:08:32+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 207
+    },
+    {
+      "scenarioAuthorDate": "2013-03-03T15:34:41+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 208
+    },
+    {
+      "scenarioAuthorDate": "2013-03-03T22:00:21+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 209
+    },
+    {
+      "scenarioAuthorDate": "2013-03-06T10:54:34+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 210
+    },
+    {
+      "scenarioAuthorDate": "2013-03-06T21:09:28+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 211
+    },
+    {
+      "scenarioAuthorDate": "2013-03-10T21:31:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 212
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T08:27:29+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 213
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T13:48:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 214
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T20:12:07+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 215
+    },
+    {
+      "scenarioAuthorDate": "2013-03-15T12:58:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 216
+    },
+    {
+      "scenarioAuthorDate": "2013-03-19T11:03:44+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 217
+    },
+    {
+      "scenarioAuthorDate": "2013-03-20T19:01:54+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 218
+    },
+    {
+      "scenarioAuthorDate": "2013-03-21T22:14:36+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 219
+    },
+    {
+      "scenarioAuthorDate": "2013-03-23T10:14:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 220
+    },
+    {
+      "scenarioAuthorDate": "2013-03-24T19:23:25+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 221
+    },
+    {
+      "scenarioAuthorDate": "2013-03-27T19:17:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 222
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T09:39:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 223
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T15:33:11+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 224
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T21:02:56+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 225
+    },
+    {
+      "scenarioAuthorDate": "2013-04-01T18:35:21+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 226
+    },
+    {
+      "scenarioAuthorDate": "2013-04-02T18:54:32+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 227
+    },
+    {
+      "scenarioAuthorDate": "2013-04-05T14:49:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 228
+    },
+    {
+      "scenarioAuthorDate": "2013-04-09T08:09:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 229
+    },
+    {
+      "scenarioAuthorDate": "2013-04-09T19:32:25+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 230
+    },
+    {
+      "scenarioAuthorDate": "2013-04-11T19:10:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 231
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T11:14:05+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 232
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T20:51:50+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 233
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T10:53:22+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 234
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T18:35:48+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 235
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T22:56:38+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 236
+    },
+    {
+      "scenarioAuthorDate": "2013-04-19T12:35:15+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 237
+    },
+    {
+      "scenarioAuthorDate": "2013-04-23T11:14:00+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 238
+    },
+    {
+      "scenarioAuthorDate": "2013-04-28T17:31:30+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 239
+    },
+    {
+      "scenarioAuthorDate": "2013-05-01T09:21:46+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 240
+    },
+    {
+      "scenarioAuthorDate": "2013-05-01T20:59:48+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 241
+    },
+    {
+      "scenarioAuthorDate": "2013-05-05T16:33:34+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 242
+    },
+    {
+      "scenarioAuthorDate": "2013-05-08T15:20:56+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 243
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T11:15:48+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 244
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T14:19:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 245
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T20:08:35+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 246
+    },
+    {
+      "scenarioAuthorDate": "2013-05-14T14:48:38+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 247
+    },
+    {
+      "scenarioAuthorDate": "2013-05-17T09:21:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 248
+    },
+    {
+      "scenarioAuthorDate": "2013-05-17T16:51:35+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 249
+    },
+    {
+      "scenarioAuthorDate": "2013-05-19T09:15:05+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 250
+    },
+    {
+      "scenarioAuthorDate": "2013-05-19T21:54:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 251
+    },
+    {
+      "scenarioAuthorDate": "2013-05-20T21:31:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 252
+    },
+    {
+      "scenarioAuthorDate": "2013-05-26T09:37:22+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 253
+    },
+    {
+      "scenarioAuthorDate": "2013-05-27T11:52:52+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 254
+    },
+    {
+      "scenarioAuthorDate": "2013-05-27T22:18:11+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 255
+    },
+    {
+      "scenarioAuthorDate": "2013-05-29T14:20:44+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 256
+    },
+    {
+      "scenarioAuthorDate": "2013-05-30T12:21:48+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 257
+    },
+    {
+      "scenarioAuthorDate": "2013-05-30T20:05:10+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 258
+    },
+    {
+      "scenarioAuthorDate": "2013-06-01T14:57:29+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 259
+    },
+    {
+      "scenarioAuthorDate": "2013-06-04T16:41:06+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 260
+    },
+    {
+      "scenarioAuthorDate": "2013-06-09T14:34:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 261
+    },
+    {
+      "scenarioAuthorDate": "2013-06-16T10:58:24+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 262
+    },
+    {
+      "scenarioAuthorDate": "2013-06-21T12:58:46+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 263
+    },
+    {
+      "scenarioAuthorDate": "2013-06-24T09:15:04+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 264
+    },
+    {
+      "scenarioAuthorDate": "2013-06-28T13:03:37+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 265
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T10:28:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 266
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T14:30:04+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 267
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T18:49:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 268
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T21:01:46+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 269
+    },
+    {
+      "scenarioAuthorDate": "2013-07-06T12:16:13+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 270
+    },
+    {
+      "scenarioAuthorDate": "2013-07-07T17:11:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 271
+    },
+    {
+      "scenarioAuthorDate": "2013-07-08T22:30:47+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 272
+    },
+    {
+      "scenarioAuthorDate": "2013-07-11T22:40:28+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 273
+    },
+    {
+      "scenarioAuthorDate": "2013-07-13T10:08:16+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 274
+    },
+    {
+      "scenarioAuthorDate": "2013-07-13T15:33:43+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 275
+    },
+    {
+      "scenarioAuthorDate": "2013-07-17T15:53:20+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 276
+    },
+    {
+      "scenarioAuthorDate": "2013-07-18T15:47:13+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 277
+    },
+    {
+      "scenarioAuthorDate": "2013-07-18T22:36:36+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 278
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T12:56:44+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 279
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T15:48:24+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 280
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T21:54:17+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 281
+    },
+    {
+      "scenarioAuthorDate": "2013-07-22T18:43:03+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 282
+    },
+    {
+      "scenarioAuthorDate": "2013-07-24T20:11:11+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 283
+    },
+    {
+      "scenarioAuthorDate": "2013-07-26T14:25:44+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 284
+    },
+    {
+      "scenarioAuthorDate": "2013-07-28T22:38:49+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 285
+    },
+    {
+      "scenarioAuthorDate": "2013-07-30T16:50:21+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 286
+    },
+    {
+      "scenarioAuthorDate": "2013-08-04T08:30:51+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 287
+    },
+    {
+      "scenarioAuthorDate": "2013-08-07T17:00:05+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 288
+    },
+    {
+      "scenarioAuthorDate": "2013-08-09T17:22:27+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 289
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T10:37:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 290
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T17:49:21+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 291
+    },
+    {
+      "scenarioAuthorDate": "2013-08-17T11:06:40+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 292
+    },
+    {
+      "scenarioAuthorDate": "2013-08-18T22:57:31+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 293
+    },
+    {
+      "scenarioAuthorDate": "2013-08-23T15:04:43+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 294
+    },
+    {
+      "scenarioAuthorDate": "2013-08-24T12:52:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 295
+    },
+    {
+      "scenarioAuthorDate": "2013-08-24T17:32:14+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 296
+    },
+    {
+      "scenarioAuthorDate": "2013-08-26T14:18:51+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 297
+    },
+    {
+      "scenarioAuthorDate": "2013-08-27T11:17:36+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 298
+    },
+    {
+      "scenarioAuthorDate": "2013-08-27T20:25:38+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 299
+    },
+    {
+      "scenarioAuthorDate": "2013-08-30T15:28:58+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 300
+    },
+    {
+      "scenarioAuthorDate": "2013-09-03T15:09:39+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 301
+    },
+    {
+      "scenarioAuthorDate": "2013-09-03T22:47:05+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 302
+    },
+    {
+      "scenarioAuthorDate": "2013-09-05T13:06:15+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 303
+    },
+    {
+      "scenarioAuthorDate": "2013-09-05T17:54:18+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 304
+    },
+    {
+      "scenarioAuthorDate": "2013-09-08T08:00:00+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 305
+    },
+    {
+      "scenarioAuthorDate": "2013-09-08T18:06:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 306
+    },
+    {
+      "scenarioAuthorDate": "2013-09-09T11:13:17+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 307
+    },
+    {
+      "scenarioAuthorDate": "2013-09-09T21:23:23+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 308
+    },
+    {
+      "scenarioAuthorDate": "2013-09-12T09:20:49+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 309
+    },
+    {
+      "scenarioAuthorDate": "2013-09-12T21:48:36+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 310
+    },
+    {
+      "scenarioAuthorDate": "2013-09-14T17:13:00+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 311
+    },
+    {
+      "scenarioAuthorDate": "2013-09-15T14:29:12+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 312
+    },
+    {
+      "scenarioAuthorDate": "2013-09-16T21:32:18+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 313
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T10:56:53+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 314
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T14:44:34+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 315
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T18:12:30+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 316
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T20:48:12+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 317
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T22:43:21+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 318
+    },
+    {
+      "scenarioAuthorDate": "2013-09-21T16:05:26+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 319
+    },
+    {
+      "scenarioAuthorDate": "2013-09-23T21:24:58+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 320
+    },
+    {
+      "scenarioAuthorDate": "2013-09-26T10:39:49+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 321
+    },
+    {
+      "scenarioAuthorDate": "2013-09-28T14:38:26+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 322
+    },
+    {
+      "scenarioAuthorDate": "2013-09-30T13:52:03+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 323
+    },
+    {
+      "scenarioAuthorDate": "2013-09-30T22:59:20+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 324
+    },
+    {
+      "scenarioAuthorDate": "2013-10-03T11:04:07+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 325
+    },
+    {
+      "scenarioAuthorDate": "2013-10-03T21:43:21+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 326
+    },
+    {
+      "scenarioAuthorDate": "2013-10-09T13:17:04+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 327
+    },
+    {
+      "scenarioAuthorDate": "2013-10-10T21:48:59+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 328
+    },
+    {
+      "scenarioAuthorDate": "2013-10-13T17:58:33+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 329
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T12:01:03+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 330
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T19:15:22+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 331
+    },
+    {
+      "scenarioAuthorDate": "2013-10-16T12:45:03+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 332
+    },
+    {
+      "scenarioAuthorDate": "2013-10-22T10:16:09+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 333
+    },
+    {
+      "scenarioAuthorDate": "2013-10-24T22:32:01+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 334
+    },
+    {
+      "scenarioAuthorDate": "2013-10-26T22:27:42+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 335
+    },
+    {
+      "scenarioAuthorDate": "2013-10-31T10:24:36+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 336
+    },
+    {
+      "scenarioAuthorDate": "2013-11-02T10:28:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 337
+    },
+    {
+      "scenarioAuthorDate": "2013-11-05T11:02:10+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 338
+    },
+    {
+      "scenarioAuthorDate": "2013-11-06T10:34:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 339
+    },
+    {
+      "scenarioAuthorDate": "2013-11-08T11:11:42+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 340
+    },
+    {
+      "scenarioAuthorDate": "2013-11-11T11:34:32+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 341
+    },
+    {
+      "scenarioAuthorDate": "2013-11-14T18:11:29+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 342
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T09:19:34+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 343
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T13:57:25+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 344
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T18:15:31+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 345
+    },
+    {
+      "scenarioAuthorDate": "2013-11-24T10:42:43+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 346
+    },
+    {
+      "scenarioAuthorDate": "2013-11-27T15:38:53+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 347
+    },
+    {
+      "scenarioAuthorDate": "2013-11-28T17:58:13+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 348
+    },
+    {
+      "scenarioAuthorDate": "2013-12-02T08:21:20+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 349
+    },
+    {
+      "scenarioAuthorDate": "2013-12-04T13:31:07+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 350
+    },
+    {
+      "scenarioAuthorDate": "2013-12-09T08:25:43+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 351
+    },
+    {
+      "scenarioAuthorDate": "2013-12-11T11:24:30+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 352
+    },
+    {
+      "scenarioAuthorDate": "2013-12-13T15:34:57+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 353
+    },
+    {
+      "scenarioAuthorDate": "2013-12-14T17:10:42+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 354
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T09:37:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 355
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T19:12:52+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 356
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T22:06:36+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 357
+    },
+    {
+      "scenarioAuthorDate": "2013-12-17T11:10:31+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 358
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T11:39:07+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 359
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T18:06:38+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 360
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T22:31:48+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 361
+    },
+    {
+      "scenarioAuthorDate": "2013-12-25T20:06:08+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 362
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T10:19:03+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 363
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T14:18:27+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 364
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T17:54:13+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 365
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T22:53:19+00:00",
+      "year": 2013,
+      "repository": "csv-profiler-simulation",
+      "fixtureIndex": 366
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYears": [
+      2012,
+      2013
+    ],
+    "actualPresentationUpdateAt": "2026-11-05T13:19:47.798358+00:00",
+    "allAuthorHeadersPreserved": true,
+    "fixtureCommittersMatchIllustrativeAuthorDates": true
+  }
+}
