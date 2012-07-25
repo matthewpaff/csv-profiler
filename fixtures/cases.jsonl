@@ -18,3 +18,4 @@
 {"expected": {"columns": [{"distinct": 2, "empty": 0, "max_length": 9, "name": "item", "nonempty": 2, "numeric": 0}, {"distinct": 2, "empty": 0, "max_length": 5, "name": "amount", "nonempty": 2, "numeric": 1}, {"distinct": 1, "empty": 1, "max_length": 19, "name": "notes", "nonempty": 1, "numeric": 0}], "row_count": 2}, "id": "synthetic-csv-0017", "input": "item,amount,notes\r\nitem_17_0,17.25,\"synthetic, \"\"quoted\"\"\"\r\nitem_17_1,n/a,\r\n"}
 {"expected_error": true, "id": "synthetic-csv-0018", "input": "item,item\na,b\n"}
 {"expected_error": true, "id": "synthetic-csv-0019", "input": "item,amount\na,2,extra\n"}
+{"expected_error": true, "id": "synthetic-csv-0020", "input": "item,amount\n\"unfinished,2"}
