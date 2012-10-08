@@ -99,3 +99,4 @@
 {"expected": {"columns": [{"distinct": 3, "empty": 0, "max_length": 9, "name": "item", "nonempty": 3, "numeric": 0}, {"distinct": 3, "empty": 0, "max_length": 6, "name": "amount", "nonempty": 3, "numeric": 2}, {"distinct": 1, "empty": 1, "max_length": 19, "name": "notes", "nonempty": 2, "numeric": 0}], "row_count": 3}, "id": "synthetic-csv-0098", "input": "item,amount,notes\r\nitem_98_0,98.25,\"synthetic, \"\"quoted\"\"\"\r\nitem_98_1,n/a,\r\nitem_98_2,100.25,\"synthetic, \"\"quoted\"\"\"\r\n"}
 {"expected_error": true, "id": "synthetic-csv-0099", "input": "item,item\na,b\n"}
 {"expected_error": true, "id": "synthetic-csv-0100", "input": "item,amount\na,2,extra\n"}
+{"expected_error": true, "id": "synthetic-csv-0101", "input": "item,amount\n\"unfinished,2"}
