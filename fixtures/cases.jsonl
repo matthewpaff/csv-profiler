@@ -117,3 +117,4 @@
 {"expected": {"columns": [{"distinct": 1, "empty": 0, "max_length": 10, "name": "item", "nonempty": 1, "numeric": 0}, {"distinct": 1, "empty": 0, "max_length": 5, "name": "amount", "nonempty": 1, "numeric": 1}, {"distinct": 1, "empty": 0, "max_length": 19, "name": "notes", "nonempty": 1, "numeric": 0}], "row_count": 1}, "id": "synthetic-csv-0116", "input": "item,amount,notes\r\nitem_116_0,16.25,\"synthetic, \"\"quoted\"\"\"\r\n"}
 {"expected_error": true, "id": "synthetic-csv-0117", "input": "item,item\na,b\n"}
 {"expected_error": true, "id": "synthetic-csv-0118", "input": "item,amount\na,2,extra\n"}
+{"expected_error": true, "id": "synthetic-csv-0119", "input": "item,amount\n\"unfinished,2"}
