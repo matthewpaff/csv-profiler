@@ -252,3 +252,4 @@
 {"expected": {"columns": [{"distinct": 4, "empty": 0, "max_length": 10, "name": "item", "nonempty": 4, "numeric": 0}, {"distinct": 3, "empty": 0, "max_length": 5, "name": "amount", "nonempty": 4, "numeric": 2}, {"distinct": 1, "empty": 2, "max_length": 19, "name": "notes", "nonempty": 2, "numeric": 0}], "row_count": 4}, "id": "synthetic-csv-0251", "input": "item,amount,notes\r\nitem_251_0,51.25,\"synthetic, \"\"quoted\"\"\"\r\nitem_251_1,n/a,\r\nitem_251_2,53.25,\"synthetic, \"\"quoted\"\"\"\r\nitem_251_3,n/a,\r\n"}
 {"expected_error": true, "id": "synthetic-csv-0252", "input": "item,item\na,b\n"}
 {"expected_error": true, "id": "synthetic-csv-0253", "input": "item,amount\na,2,extra\n"}
+{"expected_error": true, "id": "synthetic-csv-0254", "input": "item,amount\n\"unfinished,2"}
